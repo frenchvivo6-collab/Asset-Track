@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">1734e77b04312210559073c06a02f70c</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-23 06:29:20</sys_created_on>
+        <sys_id>89a0e6e5473fb6d011d51a2f316d43a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Asset Tracker v1.0" source="x_1808864_asset_tr">89170391473376d011d51a2f316d43af</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-23 06:29:20</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
